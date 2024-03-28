@@ -25,6 +25,7 @@ The second script (`get_pol.py`) analyses the DFT-relaxed cell and calculates th
 
 &nbsp;
 
-The folder `mc_new` contains C programs, implementing the Ising model for the simulaiton of thin films (3.)
+The folder `mc_new` contains C programs, implementing the Ising model for the simulaiton of thin films (3.). It contains a Makefile (that worked for me at least), as well as a sample input file (`input.dat`). There is also a shell script (`run_multiple.sh`), that allows to run multiple instances of the simulation for different temperatures, in order to have kind of an embarrising *parallelization*.
 
+&nbsp;
 
