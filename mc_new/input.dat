@@ -1,0 +1,9 @@
+L = 500
+nsteps = 10000
+t = 0.2
+bc_width = 0
+U_I = -1.0
+U_II = -0.1
+print_measurement = 1000
+num_print_lattice = 50
+
